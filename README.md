@@ -60,7 +60,7 @@
 <br />
 <br />
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeRideTV&" alt="CodeRideTV" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeRideTV&&" alt="CodeRideTV" />
     <div style="display: flex; justify-content: space-between;">
         <img src="https://github-readme-stats.vercel.app/api?username=CodeRideTV&count_private=true&show_icons=true&theme=chartreuse-dark&include_all_commits=true&hide=issues,prs&line_height=30"
             alt="Diasan github Stats">
